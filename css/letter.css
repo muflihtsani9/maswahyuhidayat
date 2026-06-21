@@ -109,7 +109,7 @@
 
 .letter__panel.is-open {
   opacity: 1;
-  max-height: 1400px;
+  max-height: 9999px;
   transform: translateY(0);
 }
 
